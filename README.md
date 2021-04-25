@@ -1,1 +1,1 @@
-# EDA-by-Shubham
+# This repository contains exploratory data analysis on datasets.
